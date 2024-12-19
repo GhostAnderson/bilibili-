@@ -8,6 +8,7 @@
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // @require https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js
+// @license MIT 
 // ==/UserScript==
 
 
